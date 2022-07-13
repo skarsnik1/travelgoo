@@ -150,7 +150,7 @@ body {
     border: none;
 }
 
-.rectangle2 {
+.service {
     width: 230px;
     height: 54px;
     font-family: 'Open Sans', sans-serif;
@@ -162,3 +162,5 @@ body {
     color: #000000;
     margin-bottom: 33px;
 }
+
+
