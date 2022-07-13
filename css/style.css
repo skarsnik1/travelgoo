@@ -164,3 +164,15 @@ body {
 }
 
 
+.rectangle2 {
+    display: flex;
+    justify-content: center;
+    width: 1729px;
+    height: 509px;
+}
+
+.rectangle2_cardtype1 {
+    width: 416px;
+    height: 232px;
+    background-color: red;
+}
